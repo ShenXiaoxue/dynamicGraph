@@ -1,2 +1,2 @@
 # dynamicGraph
-A dynamic graph 
+A dynamic graph visualisation with timestamps 
